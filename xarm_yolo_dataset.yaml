@@ -1,0 +1,12 @@
+# download command/URL (optional)
+download: https://github.com/dimitrivinet/custom_yolov5/xarm_yolo_dataset.zip
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ../dataset/train
+val: ../dataset/val
+
+# number of classes
+nc: 3
+
+# class names
+names: ['boite', 'canette', 'boule']
