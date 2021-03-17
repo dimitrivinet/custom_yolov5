@@ -1,3 +1,8 @@
+dataset_videos/
+dataset_images/
+dataset_part1.zip
+dataset_part2.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
